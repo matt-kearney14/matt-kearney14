@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Temporary-Website-Portfolio",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../../Desktop/Portfolio/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Temporary-Website-Portfolio"
+	}
+}
